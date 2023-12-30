@@ -1,6 +1,10 @@
 # aws_Guid
 aws 기본적인 사용법 가이드
 
+## 구성할 네트워크 구조
+> ![struct](https://github.com/hanmin0512/aws_Guid/assets/37041208/7af7a497-a0f8-4a4d-9d3c-65eec88068c6)
+
+
 ## VPC Settings
 - VPC 생성해준다.
 - VPC ipv4 CIDR은 Private IP이므로 많이 사용해두 되지만 조건이 /16 ~/28 사이이다.
